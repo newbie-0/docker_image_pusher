@@ -6,3 +6,6 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio
+vinc02131/testhub:1.0.4
+vinc02131/server:1.0.0
+postgres:11-alpine
