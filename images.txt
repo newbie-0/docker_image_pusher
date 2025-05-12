@@ -9,4 +9,3 @@ minio/minio
 vinc02131/testhub:1.0.4
 vinc02131/server:1.0.0
 postgres:11-alpine
-openjdk:17-alpine
